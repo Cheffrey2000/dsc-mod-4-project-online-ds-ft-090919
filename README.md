@@ -3,6 +3,8 @@
 
 [Presentation Slide Show](https://docs.google.com/presentation/d/1PxWlpmrsNDyx1Z6Z6jojopivQKqg9PoY58UcoAJFQmg/edit?usp=sharing)
 
+[Video Presentation](https://youtu.be/i8cE3neEtSs)
+
 ## Goal
 The goal of this research is to determine the best return on investment (ROI) when purchasing houses in the Atlanta Metropolitan area.  
 
@@ -20,7 +22,7 @@ After looking at the average price per zip code in all of Georgia, we decided to
 
 Below is a graph of the best zip codes as calculated using the method described above.
 
-<img src="Best Zips.png" title="Atlanta Metro Area Zip Codes"/>
+<img src="Best Zips.png" title="10 Best Zip Codes Graph"/>
 
 After choosing our focus data, we ran a test model
 
