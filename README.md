@@ -22,7 +22,7 @@ After looking at the average price per zip code in all of Georgia, we decided to
 
 Below is a graph of the best zip codes as calculated using the method described above.
 
-<img src="BestZips.png" title="10 Best Zip Codes Graph"/>
+<img src="Best Zips.PNG" title="10 Best Zip Codes Graph"/>
 
 After choosing our focus data, we ran a test model
 
